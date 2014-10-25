@@ -10,4 +10,18 @@ setup(
     author_email='alireza.savand@gmail.com',
     description='Set of Django kewl utilities & helpers & highly used/needed stuff.',
     long_description=open('README.rst').read(),
+    platforms='OS Independent',
+    platforms='OS Independent',
+    classifiers=[
+        'Development Status :: 5 - Production/Stable',
+        'Environment :: Web Environment',
+        'Intended Audience :: Developers',
+        'Operating System :: OS Independent',
+        'Framework :: Django',
+        'Programming Language :: Python',
+        'Programming Language :: Python :: 2',
+        'Programming Language :: Python :: 2.6',
+        'Programming Language :: Python :: 2.7',
+        'Topic :: Software Development'
+    ],
 )
