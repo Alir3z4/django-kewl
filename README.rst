@@ -7,7 +7,27 @@ Django Kewl
 Overview
 --------
 
-Set of Django kewl utilities ;)
+`Django Kewl <ttps://github.com/Alir3z4/django-kewl/>`_ is set
+of Django kewl utilities and nothing more.
+
+* `Template tags & filters <https://docs.djangoproject.com/en/dev/howto/custom-template-tags/>`_
+* `Management Commands <https://docs.djangoproject.com/en/dev/howto/custom-management-commands/>`_
+* Probably some other kewl stuff soon as well.
+
+
+For now there only 3 kind of template tags implemented which will be more,
+the current ones are:
+
+* `search <https://github.com/Alir3z4/django-kewl/blob/master/django_kewl/templatetags/search.py>`_
+    * ``searchexcerpt``
+    * ``highlight``
+    * ``hits``
+* `meta_head <https://github.com/Alir3z4/django-kewl/blob/master/django_kewl/templatetags/meta_head.py>`_
+    * ``meta_twitter``
+    * ``meta_open_graph``
+* `markwhat <https://github.com/Alir3z4/django-kewl/blob/master/django_kewl/templatetags/markwhat.py>`_
+    * ``markdown``
+
 
 Installation
 ------------
