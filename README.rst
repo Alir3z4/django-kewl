@@ -7,8 +7,8 @@ Django Kewl
 Overview
 --------
 
-`Django Kewl <ttps://github.com/Alir3z4/django-kewl/>`_ is set
-of Django kewl utilities and nothing more.
+`Django Kewl <ttps://github.com/Alir3z4/django-kewl/>`_ Set of Django kewl
+utilities & helpers & highly used/needed stuff.
 
 * `Template tags & filters <https://docs.djangoproject.com/en/dev/howto/custom-template-tags/>`_
 * `Management Commands <https://docs.djangoproject.com/en/dev/howto/custom-management-commands/>`_
