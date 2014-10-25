@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='django-kewl',
-    version=".".join(map(str, __import__('short_url').__version__)),
+    version=".".join(map(str, __import__('django_kewl').__version__)),
     packages=['django_kewl'],
     url='https://github.com/Alir3z4/django-kewl',
     license='BSD',
