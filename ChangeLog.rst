@@ -1,4 +1,4 @@
-2014.10.25
+2014.10.26
 ==========
 
 * Add ``markwhat`` templatetag.

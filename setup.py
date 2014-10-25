@@ -1,8 +1,8 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
     name='django-kewl',
-    version='2014.0.0',
+    version=".".join(map(str, __import__('short_url').__version__)),
     packages=['django_kewl'],
     url='https://github.com/Alir3z4/django-kewl',
     license='BSD',
