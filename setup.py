@@ -11,7 +11,7 @@ setup(
     description='Set of Django kewl utilities & helpers & highly used/needed stuff.',
     long_description=open('README.rst').read(),
     platforms='OS Independent',
-    platforms='OS Independent',
+    install_requires=open('requirements.txt').read().splitlines(),
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
