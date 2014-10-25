@@ -22,6 +22,7 @@ setup(
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
-        'Topic :: Software Development'
+        'Topic :: Software Development',
+        'License :: OSI Approved :: BSD License',
     ],
 )
