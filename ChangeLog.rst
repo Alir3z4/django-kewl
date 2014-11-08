@@ -2,6 +2,7 @@
 ==========
 
 * Feature #6: Add database queryset iterator.
+* Feature #7: Add ``build_absolute_url``.
 
 
 2014.10.26
