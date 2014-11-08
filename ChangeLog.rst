@@ -1,3 +1,9 @@
+0000.00.00
+==========
+
+* Feature #6: Add database queryset iterator.
+
+
 2014.10.26
 ==========
 
